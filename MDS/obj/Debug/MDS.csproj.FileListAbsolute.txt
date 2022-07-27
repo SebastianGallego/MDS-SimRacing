@@ -1,0 +1,12 @@
+C:\Dev\MDS\MDS\MDS\bin\Debug\MDS.exe.config
+C:\Dev\MDS\MDS\MDS\bin\Debug\MDS.exe
+C:\Dev\MDS\MDS\MDS\bin\Debug\MDS.pdb
+C:\Dev\MDS\MDS\MDS\obj\Debug\MDS.csproj.AssemblyReference.cache
+C:\Dev\MDS\MDS\MDS\obj\Debug\MDS.csproj.SuggestedBindingRedirects.cache
+C:\Dev\MDS\MDS\MDS\obj\Debug\MDS.Properties.Resources.resources
+C:\Dev\MDS\MDS\MDS\obj\Debug\MDS.csproj.GenerateResource.cache
+C:\Dev\MDS\MDS\MDS\obj\Debug\MDS.csproj.CoreCompileInputs.cache
+C:\Dev\MDS\MDS\MDS\obj\Debug\MDS.exe
+C:\Dev\MDS\MDS\MDS\obj\Debug\MDS.pdb
+C:\Dev\MDS\MDS\MDS\obj\Debug\MDS.frmPrincipal.resources
+C:\Dev\MDS\MDS\MDS\obj\Debug\MDS.frmPuntajes.resources
